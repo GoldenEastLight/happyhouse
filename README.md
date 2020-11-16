@@ -1,3 +1,24 @@
-# HappyHouse_Web_Vue_구미_3반_김동빈_심재혁_임호빈
+# vue-board
 
-happyhouse_web_vue
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
